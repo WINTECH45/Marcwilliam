@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+text-align: center;
+font-family: 'Balsamiq Sans', cursive;
+font-size: 150%;
+background-color: #f4f4f4;
+
+}
+
+h1 {
+  color: #07689f;
+  font-size: 3.65REM;
+  line-height: 2;
+  font-family: 'Rancho', cursive;
+  margin-top: 0;
+}
+
+hr {
+border: dotted #ad9d9d 6PX;
+border-bottom: none;
+width: 30%;
+}
+p {
+  color: #132743;
+  letter-spacing: 1px;
+  line-height: 2;
+margin: 30px 0;
+}
+h2 {
+  color: #40a8c4;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 4.65rem;
+  line-height: 1
+
+}
+h3 {
+  color: #40a8c4;
+}
+
+.windows1{
+  width: 250px;
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+  }
+ .windows2{
+position: absolute;
+width: 250px;
+right: 200px;
+bottom: 300px;
+ }
+
+.Microsoft{
+  position: absolute;
+  width: 250px;
+  right:1200px;
+}
+.marc{
+  text-align: center;
+  color: #838383;
+}
+
+.heading1 {
+  color: #0f3057;
+}
+.about{
+width: 60%;
+  margin: auto;
+  line-height: 2;
+}
+
+ .top-container {
+   position: relative;
+   padding-top: 20px;
+   border-bottom: 0;
+
+ }
+ .skillhr{
+   border: dotted #ad9d9d 6PX;
+   border-bottom: none;
+   width: 17%;
+ }
+
+.virus{
+  width: 25px;
+}
+.setup {
+  width: 25px;
+}
+.repair {
+  width: 25px;
+}
+.optimization {
+
+  width: 25px
+}
+
+
+.boor {
+  color: black;
+}
+.contact-me{
+  background-color: #f4f4f4;
+}
+.btn {
+	box-shadow:inset -2px 2px 7px 1px #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	background-color:#bddbfa;
+	border-radius:11px;
+	border:3px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:21px;
+	font-weight:bold;
+	padding:7px 15px;
+	text-decoration:none;
+	text-shadow:1px 1px 4px #528ecc;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	background-color:#80b5ea;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
